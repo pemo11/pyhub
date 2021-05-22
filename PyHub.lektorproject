@@ -1,2 +1,5 @@
 [project]
 name = PyHub
+
+[servers.ghpages]
+target = ghpages+https://pemo11.github.io/pyhub/
