@@ -3,3 +3,6 @@ name = PyHub
 
 [servers.ghpages]
 target = ghpages+https://pemo11/pyhub
+
+[servers.production]
+target = ftps://ftp12465158-py:!py2021!@wp12465158.server-he.de/www
